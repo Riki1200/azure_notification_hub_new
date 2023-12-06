@@ -9,8 +9,6 @@ class AzureNotificationHubNew {
   static const MethodChannel _channel =
       MethodChannel('azure_notification_hub_new');
 
-  static late AzureNotificationHubNew _sallyNotificationHubSingleton;
-
   MessageHandler? _onMessage;
   MessageHandler? _onResume;
   MessageHandler? _onLaunch;
