@@ -1,6 +1,6 @@
 name: azure_notification_hub_new
 description: "Flutter support for using Azure Notification Hun Plugin in iOS and Android apps."
-version: 0.0.4
+version: 0.0.6
 homepage: https://github.com/Riki1200/azure_notification_hub_ne
 
 environment:
@@ -39,7 +39,7 @@ flutter:
         package: com.romeodev.azure_notification_hub_new
         pluginClass: AzureNotificationHubNewPlugin
       ios:
-        pluginClass: AzureNotificationHubNewPlugin
+        pluginClass: AzureNotificationhubNewFlutterPlugin
 
 
   # To add assets to your plugin package, add an assets section, like this:

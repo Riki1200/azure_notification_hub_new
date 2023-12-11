@@ -1,4 +1,4 @@
-## 0.0.4
-* Add header files
+## 0.0.6
+* Fix import azure services
 * New version
  

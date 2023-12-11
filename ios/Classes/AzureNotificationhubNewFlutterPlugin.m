@@ -9,7 +9,7 @@
 
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
   FlutterMethodChannel* channel = [FlutterMethodChannel
-      methodChannelWithName:@"azure_notify_hub"
+      methodChannelWithName:@"azure_notification_hub_new"
             binaryMessenger:[registrar messenger]];
     AzureNotificationhubNewFlutterPlugin* instance = [[AzureNotificationhubNewFlutterPlugin alloc] initWithChannel:channel];
   [registrar addApplicationDelegate:instance];
