@@ -1,6 +1,6 @@
 name: azure_notification_hub_new
 description: "Flutter support for using Azure Notification Hun Plugin in iOS and Android apps."
-version: 0.0.1
+version: 0.0.4
 homepage: https://github.com/Riki1200/azure_notification_hub_ne
 
 environment:
@@ -10,9 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_web_plugins:
-    sdk: flutter
   plugin_platform_interface: ^2.0.2
+
 
 dev_dependencies:
   flutter_test:
