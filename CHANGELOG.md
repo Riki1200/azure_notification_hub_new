@@ -1,4 +1,4 @@
-## 0.0.6
-* Fix import azure services
+## 1.0.7
+* Remove headers
 * New version
  

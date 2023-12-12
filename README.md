@@ -16,7 +16,7 @@ To use `azure_notification_hub_new`, add the following to your `pubspec.yaml` fi
 
 ```yaml
 dependencies:
-  azure_notification_hub_new: ^0.0.6
+  azure_notification_hub_new: ^1.0.7
 ```
 
 Then import the package in your code:
@@ -49,4 +49,4 @@ To use `azure_notification_hub_new` in your Flutter project, add the following d
 
 ```yaml
 dependencies:
-  azure_notification_hub_new: ^0.0.6
+  azure_notification_hub_new: ^1.0.7
